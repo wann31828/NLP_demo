@@ -1,0 +1,11 @@
+
+this is a NLP demo , to run this , modify str in demo_tfidf.py test_data_1 ,
+replace it with  your query word and put your text file to text_dir/ , 
+file name should like text1.txt , text2.txt ......
+
+  
+before you run demo , install requirement package first 
+command to install package : 
+	pip3 install -r requirements.txt
+
+
